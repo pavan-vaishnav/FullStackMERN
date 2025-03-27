@@ -1,0 +1,11 @@
+.navbar a
+{
+  color:white;
+  font-size: 18px;
+  text-decoration: none;
+  margin-right: 15px;
+}
+.col a
+{
+  text-decoration: none;
+}
